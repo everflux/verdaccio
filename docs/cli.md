@@ -13,7 +13,7 @@ $ verdaccio --listen 4000 --config ~./config.yaml
 
 Command | Default | Example | Description
 --- | --- | --- | ---
---listen \ **-l** | 4873 |  -p 7000 | http port
+--listen \ **-l** | 4873 |  -l 7000 | http port
 --config \ **-c** | ~/.local/verdaccio/config.yaml | ~./config.yaml | the configuration file
 
 ## Default config file location
